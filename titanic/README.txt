@@ -1,3 +1,3 @@
 - The Titanic notebook is actualy an project inspired by a kaggle challenge that can be acessed in : https://www.kaggle.com/competitions/titanic/overview
 
-- For a simple explanation of the process check out my medium article :  
+- For a simple explanation of the process check out my medium article : https://medium.com/@MTS2AM/voc%C3%AA-sobreviveria-ao-titanic-uma-abordagem-de-machine-learning-sobre-a-trag%C3%A9dia-do-titanic-ba541cc4da07?source=friends_link&sk=c19ca953e916203fb51f29811aa5c3b4
